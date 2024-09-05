@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John Doe",
+    "enrollment": "ENR001"
+  },
+  {
+    "name": "Jane Smith",
+    "enrollment": "ENR002"
+  },
+  {
+    "name": "Alice Johnson",
+    "enrollment": "ENR003"
+  }
+]
